@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "cSpell.language": "en, ru",
+    "cSpell.words": [
+        "authtoken",
+        "corsheaders",
+        "redoc",
+        "viewsets"
+    ],
+    "python.formatting.provider": "black",
+    "ruff.enable": true,
+    "ruff.args": [
+        "--config=/Users/viktorpavlov/projects/inclusive_back/pyproject.toml"
+    ]
+}
